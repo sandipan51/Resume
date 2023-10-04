@@ -1,0 +1,791 @@
+body{margin: 0px;
+     padding: 0px;
+     overflow-x: hidden;
+
+
+}
+
+
+
+/* navbar */
+.navbar{background-color:#303030 !important;
+     
+      
+
+}
+
+
+/*navbar-brand*/
+.navbar-brand{margin-top:19px;
+              margin-bottom:16px;
+              margin-left: 81px;
+    
+}
+
+
+/*navbar-link*/
+.nav-link{font-family: 'Oswald', sans-serif;
+          font-family: 'Poppins', sans-serif;
+          font-size:25px;
+          font-weight: 400px;
+          padding-left: 323px;
+          color:#ffffff !important;
+    
+}
+
+
+.nav-link-1{padding-left: 310px !important;
+
+}
+
+.nav-link-2{padding-left: 56px !important;
+
+
+}
+
+.nav-link-3{padding-left:57px !important;
+
+
+}
+
+.nav-link-4{padding-left:41px !important;
+
+
+}
+
+.nav-link-5{padding-left:46px !important;
+
+
+}
+
+
+
+.nav-link-5{margin-right:160px !important;
+
+}
+
+
+.nav-link:hover { color:#e8631c !important;
+                 transition:ease-in.5s;
+ }
+
+/*banner-1*/
+.banner1{background-image:url(../img/banner1.png);
+         background-size:100% 100%;
+         background-repeat: no-repeat;
+         background-position: center;
+         height:797px;
+         background-position-y: -112px;
+   
+         
+}
+
+
+.banner1 h2{font-family: 'Oswald', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size:124.63px;
+            font-weight: 400px;
+            color:#ffffff;
+            padding-top: 252px; 
+            text-align:left;
+           
+
+}
+
+
+.banner1 p{padding-top:10px;
+          font-size: 29.72px;
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Oswald', sans-serif;
+          font-family: 'Poppins', sans-serif; 
+          color:#ffffff;
+          font-weight: 400px;
+          padding-left:6px;
+          text-align: left;
+          
+
+}
+
+
+.j3{height: 65px;
+     width: 323px;
+     background-color:#e8631c !important;
+     border-radius:6px;
+     border:none;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Poppins', sans-serif;
+     font-weight: 400px;
+     font-size:29.17px;
+     margin-top:8px;
+     text-align: center;
+     color: #ffffff;
+   
+         
+  }
+
+.j3:hover{background-color: #ff6715 !important; 
+           transition:ease-in.5s;
+           color: #f8b052;
+           border:none;
+           
+  }
+
+
+
+/*banner-1*/
+
+.bann2{background-color:#e8631c;
+       height:2000px;
+       background-image: url(../img/dot.png);
+       box-sizing:100% 100%;
+       background-repeat: no-repeat;
+       background-position-y:386px;
+       background-position-x:2px;
+
+}
+
+
+.banner2{height:1200px;
+   
+
+     
+
+
+}
+
+
+
+.banner2 h3{font-family: 'Montserrat', sans-serif;
+            font-family: 'Oswald', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size: 75px;
+            text-align: center;
+            color: #ffffff;
+            padding-top: 109px;
+            text-align: center;
+
+}
+.banner2 p{padding-top: 30px;
+           text-align: center;
+           font-size: 29.72px;
+           color: #ffffff;
+           font-family: 'Montserrat', sans-serif;
+           font-family: 'Oswald', sans-serif;
+           font-family: 'Poppins', sans-serif;
+           text-align: center;
+           
+ 
+     
+}
+
+.dance{margin-top:100px;
+
+}
+
+
+.card{width:375px;
+      height: 493px;   
+      background-color:#303030;
+      padding-left: 0px 10px 0px 10px;
+      margin-left: 40px;
+
+}
+
+.card h4{font-family: 'Montserrat', sans-serif;
+         font-family: 'Oswald', sans-serif;
+         font-family: 'Poppins', sans-serif;
+         font-size:36.95px;
+         color:#ffffff;
+         padding-top: 6px;
+         text-align: center;
+     
+
+
+}
+
+.card p{font-family: 'Montserrat', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 22.17px;
+        padding-top:20px;
+        font-weight:400px;
+        text-align: center;
+
+}
+
+
+  /*banner-3*/
+
+.bann3{height:1200px;
+        background-image: url(../img/bullet1.png);
+        background-size:60% 60%;
+        background-repeat: no-repeat;
+        background-position-y:-100px;
+        background-position-x:2px;
+        background-color: #303030;
+
+
+}
+
+.banner3{height:1200px;
+         background-image: url(../img/bullet2.png);
+         background-size:60% 60%;
+         background-repeat: no-repeat;
+         background-position-x: 740px;
+         background-position-y: 778px;
+}
+
+
+.banner3 h2{ text-align: center;
+            font-family: 'Montserrat', sans-serif;
+            font-family: 'Oswald', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            color:#ffffff;
+            padding-top:188px;
+            font-weight:700px;
+            font-size: 75px;
+            text-align: center;
+           
+
+} 
+
+
+.banner3 p{padding-top: 59px;
+          text-align: center;
+          color:#ffffff;
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Oswald', sans-serif;
+          font-family: 'Poppins', sans-serif;
+          font-size: 29.72px;
+          font-weight: 400px;
+          text-align: center;
+
+}
+
+.dancer{margin-top: 100px;
+
+}
+
+.Breakdancing{height: 494px;
+               width: 373px;
+               background-color:#e8631c;
+               border-radius: 8px;
+               margin-left: 40px;
+
+}
+
+
+.Folk-dance img{margin-top: 63px;
+
+}
+
+.Breakdancing h3 {font-family: 'Montserrat', sans-serif;
+                 font-family: 'Oswald', sans-serif;
+                 font-family: 'Poppins', sans-serif;
+                 font-size:36.95px;
+                 font-weight: 600px;
+                 padding-top:30px;
+                 color: #ffffff;
+                 text-align: center;
+
+
+}
+
+
+.Breakdancing p {padding-top:20px;
+                font-size:22.17px;
+                color: #ffffff;
+                text-align: center;
+
+}
+
+
+
+.a1{width: 322px;
+     height:65px;
+     background-color:#303030 !important;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Poppins', sans-serif;
+     font-size: 25px;
+     font-weight: 400px;
+     border-radius: 8px;
+     text-align: center;
+
+}
+
+
+.a1:hover{background-color:#303030 !important; 
+     transition:ease-in.5s;
+     color: #ffc68d;
+     
+}
+
+ /*banner-4*/
+ .bann4 { height:1200px;
+         background-image: url(../img/cercle1.png);
+         background-size: 60% 60%;
+         background-repeat: no-repeat;
+         background-position-x:800px;
+         background-position-y:-370px;
+         background-color: #e8631c;
+ }
+
+
+
+
+
+
+
+.banner4{height:1200px;
+          background-image: url(../img/bullet2.png);
+          background-size:60% 60%;
+          background-repeat: no-repeat;
+          background-position-x: 860px;
+          background-position-y:500px;
+}      
+
+
+
+#z2 { width: 770px;
+     height:971px;  
+     margin-left: -83px;
+
+
+
+}
+
+   
+
+
+
+.Swing h3{font-family: 'Montserrat', sans-serif;
+           font-family: 'Oswald', sans-serif;
+           font-family: 'Poppins', sans-serif;
+           font-size: 75px;
+           font-weight: 700px;
+           margin-top:332px;
+           text-align: left;
+           color: #ffffff;
+           padding-left: 40px;
+
+}
+
+.Swing p{font-family: 'Montserrat', sans-serif;
+          font-family: 'Oswald', sans-serif;
+          font-family: 'Poppins', sans-serif;
+          font-weight: 400px;
+          font-size:29.72px;
+          text-align: left;
+          color: #ffffff;
+          padding-left: 43px;
+          padding-top: 30px;
+
+}
+
+.l2{width: 322px;
+     height: 65px;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Poppins', sans-serif;
+     font-size: 25px;
+     font-weight: 400px;
+     border-radius: 8px;
+     background-color:#303030 !important;
+     margin-left:-322px;
+     border: none;
+     margin-top: 60px;
+    
+
+}
+
+.l2:hover{background-color:#303030 !important; 
+          transition:ease-in.5s;
+          color: #ffc68d;
+     
+}
+
+ /*banner-5*/
+.banner5 {height:971px;
+     background-image: url(../img/Cercle2.png);
+     background-size: 50% 50%;
+     background-repeat: no-repeat;
+     background-position-x:-300px;
+     background-position-y:550px; 
+     background-color: #e8631c;
+
+
+}
+
+
+
+.salsa h3{padding-top:335px;
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Oswald', sans-serif;
+          font-family: 'Poppins', sans-serif;
+          font-weight: 700px;
+          font-size: 75px; 
+          text-align: left;
+          color:#ffffff;
+          padding-left: 40px;
+      
+
+
+}
+
+.salsa p{font-family: 'Montserrat', sans-serif;
+         font-family: 'Oswald', sans-serif;
+         font-family: 'Poppins', sans-serif;
+         font-size:25px;
+         font-weight:400px;
+         color: #ffffff;
+         padding-top:30px;
+         text-align: left;
+         padding-left: 40px;
+         
+
+
+
+
+}
+
+
+#z8 { width: 780px;
+     height:971px;
+     margin-right:-15px;
+
+}
+
+.t3{ width:322px;
+     height: 65px;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Poppins', sans-serif;
+     background-color: #303030 !important;
+     margin-left:-289px;
+     margin-top:60px;
+     border-radius:8px;
+     border:none;
+     font-size:25px;
+     font-weight:400px;
+
+
+
+
+}
+
+.t3:hover{background-color:#303030 !important; 
+          transition:ease-in.5s;
+          color: #ffc68d;
+      
+
+}
+
+ /*banner-6*/
+
+ .banner6{height: 972px;
+        margin-top: 100px;
+        background-color: #303030;
+        margin-top:742px;
+
+
+
+
+ }
+
+
+.banner6 h2 {padding-top:220px;
+             font-family: 'Montserrat', sans-serif;
+             font-family: 'Oswald', sans-serif;
+             font-family: 'Poppins', sans-serif;
+             font-size:75px;
+             font-weight: 700px;
+             text-align: center;
+             color: #ffffff;
+
+}
+
+
+.banner6 p{font-family: 'Montserrat', sans-serif;
+           font-family: 'Oswald', sans-serif;
+           font-family: 'Poppins', sans-serif;
+           font-size:29.72px;
+           font-weight:400px;
+           color: #ffffff;
+           text-align: center;
+           padding-top: 30px;
+
+
+}
+
+.Bharatanatyam{margin-top:100px;
+
+}
+
+
+.Kathakali{width:330px;
+           height: 389px;
+           margin-left:60px;
+}
+
+
+
+.Kathakali h3{font-family: 'Montserrat', sans-serif;
+              font-family: 'Oswald', sans-serif;
+              font-family: 'Poppins', sans-serif;
+              font-size:66.84px;
+              font-weight:700px;
+              padding-top: 100px;
+              text-align: center;
+              color:#ffffff;
+
+}
+
+
+
+.Kathakali p{font-family: 'Montserrat', sans-serif;
+             font-family: 'Oswald', sans-serif;
+             font-family: 'Poppins', sans-serif;
+             font-size:30px;
+             font-weight:400px;
+             color: #ffffff;
+             text-align: center;
+             padding-top:20px;
+
+
+}
+
+ /*banner-7*/
+
+ .banner7{height: 963px;
+          background-color:#ff6715;
+          margin-top:-17px;
+          background-image: url(../img/Manipuri.png);
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-position: center;
+          background-blend-mode:multiply;
+
+ }
+
+
+
+
+ .banner7 p{font-family: 'Montserrat', sans-serif;
+            font-family: 'Nunito', sans-serif;
+            font-family: 'Oswald', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size:41.67px;
+            font-weight:400px;
+            color: #ffffff;
+            padding-top:348px;
+
+
+
+
+
+ }
+
+.banner7 h2{font-family: 'Montserrat', sans-serif;
+            font-family: 'Nunito', sans-serif;
+            font-family: 'Oswald', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size:58.33px;
+            font-weight:700px;
+            color: #ffffff;
+            padding-top: 30px;
+}
+
+
+
+/*banner-8*/
+
+.round{height:592px;
+       background-image: url(../img/Shape1.png);
+       background-repeat: no-repeat;
+       background-size:70% 100%;
+       background-position-x:-494px;
+       background-position-y:100px;
+       background-color:#e8631c;
+       
+
+
+}
+
+
+
+
+.banner8{height:592px;
+          margin-top:-142px;
+          background-image: url(../img/Shape2.png);
+          background-repeat: no-repeat;
+          background-size:70% 100%;
+          background-position-x: 757px;
+          background-position-y:70px;
+}
+
+
+
+.banner8 h2{font-family: 'Montserrat', sans-serif;
+            font-family: 'Nunito', sans-serif;
+            font-family: 'Oswald', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size:75px;
+            font-weight: 700px;
+            color: #ffffff;
+            text-align: center;
+            padding-top: 100px;
+          
+       
+
+}
+
+.banner8 p{font-family: 'Montserrat', sans-serif;
+         font-family: 'Nunito', sans-serif;
+         font-family: 'Oswald', sans-serif;
+         font-family: 'Poppins', sans-serif;
+         font-size:29.72px;
+         font-weight: 400px;
+         color: #ffffff;
+         padding-top: 59px;
+
+}
+
+
+
+
+
+#l3{ padding-top:40px;
+     
+}
+
+#k{margin-left:368px;
+     width: 549px;  
+     height: 46px;
+
+
+}
+
+
+
+#k::placeholder{ font-family: 'Montserrat', sans-serif;
+                font-family: 'Nunito', sans-serif;
+                font-family: 'Oswald', sans-serif;
+                font-family: 'Poppins', sans-serif;
+                font-size:20px;
+                font-weight:400px;
+    
+ }
+
+
+#j6{width:191px;
+     height:46px;
+     background-color:#303030 !important;
+     margin-left:-13px;
+     border-radius:8px;
+     border: none;
+     font-size:25px;
+     font-weight:600px;
+     font-family: 'Montserrat', sans-serif;
+     font-family: 'Nunito', sans-serif;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Poppins', sans-serif;
+     color: #ffffff;
+  
+  
+
+}
+
+#j6:hover{background-color:#303030 !important; 
+           transition:ease-in.5s;
+           color: #ffc68d !important;
+ 
+
+}
+
+/*footer-main*/
+.footer-main{height:479px;
+              background-color:#303030;
+
+
+
+
+
+}
+
+
+.footer-laft h4{padding-left: 55px;
+                 padding-top: 117px;
+                 font-size:33.33px;
+                 font-family: 'Montserrat', sans-serif;
+                 font-family: 'Nunito', sans-serif;
+                 font-family: 'Oswald', sans-serif;
+                 font-family: 'Poppins', sans-serif;
+                 color: #ffffff;
+                 font-weight: 400px;
+
+}
+
+.footer-laft p{padding-left: 55px;
+               padding-top: 30px;
+               color:#ffffff;
+               font-size:20px;
+               font-family: 'Nunito', sans-serif;
+               font-family: 'Oswald', sans-serif;
+               font-family: 'Poppins', sans-serif;
+               font-weight:400px;
+
+}
+
+
+.footer-laft ul li{display: inline-block;
+        padding: 0px 10px 0px 10px;
+        margin-left:8px;
+        
+
+}
+
+
+
+.footer-main ul li a:hover{
+     transition:ease-in.5s;
+     border-radius: 50%;
+     height: 20px;
+     color: #ff8204;
+ 
+
+}
+
+.footer-meddle h4{padding-top:80px;
+                  margin-left:140px;
+                  font-family: 'Nunito', sans-serif;
+                  font-family: 'Oswald', sans-serif;
+                  font-family: 'Poppins', sans-serif;
+                  font-size:33.33px;
+                  font-weight:400px;
+                  color: #ffffff;
+
+}
+
+.footer-meddle ul li{margin-left:140px;
+                     font-family: 'Nunito', sans-serif;
+                     font-family: 'Oswald', sans-serif;
+                     font-family: 'Poppins', sans-serif; 
+                     font-size:20px;
+                     font-weight: 400px;
+                     color: #ffffff;
+                     line-height: 40px;
+
+
+}
+
+.footer-meddle ul li{list-style:none;
+
+}
+
+.footer-meddle ul li a{text-decoration:none;
+
+}
+
+
